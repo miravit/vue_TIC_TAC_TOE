@@ -1,6 +1,6 @@
 
 # Tic - Tac - Toe
-This is a Tic-Tac_Toe Game where the user can create 2 players and play until there is a winner, until it is even or restart the game.
+This is a Tic-Tac-Toe game where the user can create 2 players and play until there is a winner, until it is even or restart the game.
 
 ## Built with
 Vue
